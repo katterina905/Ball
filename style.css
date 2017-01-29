@@ -1,0 +1,25 @@
+body{
+    background: #0669a3;
+}
+.button{
+    background: none;
+    margin-left: 45%;
+    color: white;
+    border-radius:40px;
+    text-align: center;
+    font-size:24px;
+    margin-left: 45%;
+    border: 3px solid #ffffff;
+    outline: none;
+    font-weight: 600;
+    padding: 5px 12px 5px 12px;
+
+}
+.button:hover{
+    transition: background-color 0.8s ease;
+    background-color: white;
+    color:#0669a3; ;
+}
+
+
+
